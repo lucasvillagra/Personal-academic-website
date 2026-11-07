@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title desc">
+<title id="title">Portrait placeholder</title><desc id="desc">A quiet editorial placeholder in burgundy and warm ivory, awaiting the owner's photograph.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e8dccd"/><stop offset="1" stop-color="#c9b49c"/></linearGradient></defs>
+<rect width="800" height="1000" fill="url(#bg)"/>
+<circle cx="400" cy="345" r="132" fill="#741f35" opacity=".12"/>
+<path d="M170 900c18-205 105-316 230-316s212 111 230 316" fill="#741f35" opacity=".12"/>
+<circle cx="400" cy="345" r="112" fill="none" stroke="#741f35" stroke-width="2" opacity=".4"/>
+<path d="M150 900h500" stroke="#741f35" stroke-width="1" opacity=".35"/>
+<text x="400" y="955" text-anchor="middle" fill="#5e182b" font-family="Georgia,serif" font-size="23" letter-spacing="3">PHOTOGRAPH TO BE ADDED</text>
+</svg>
