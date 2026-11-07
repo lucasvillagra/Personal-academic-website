@@ -76,7 +76,7 @@ nav span { font-size: 11px; opacity: .65; }
 }
 
 /* Subtle quotation from Sartre on the Research page */
-.sartre-quote { max-width: 760px; margin: 0 auto 34px; padding: 0 22px 22px; color: var(--muted); text-align: center; }
-.sartre-quote blockquote { margin: 0; font: italic 13px/1.8 var(--serif); }
-.sartre-quote p { margin: 9px 0 0; font-size: 11px; letter-spacing: .03em; }
+.sartre-quote { max-width: 660px; margin: 20px auto 0; padding: 0; color: var(--muted); text-align: center; font-size: 15px; line-height: inherit; }
+.sartre-quote blockquote { margin: 0; font: inherit; }
+.sartre-quote p { margin: 8px 0 0; font: inherit; letter-spacing: normal; }
 .publication-intro { margin: 12px 0 5px; color: var(--muted); font-size: 12px; line-height: 1.7; }
