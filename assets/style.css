@@ -86,7 +86,7 @@ nav span { font-size: 11px; opacity: .65; }
 
 .sartre-quote blockquote {
   margin: 0;
-  font: italic 12px/1.8 var(--serif);
+  font: italic 13px/1.8 var(--serif);
 }
 
 .sartre-quote p {
