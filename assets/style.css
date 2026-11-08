@@ -23,7 +23,7 @@ nav a:hover, nav a.active { color: var(--burgundy); }
 nav a.active { font-weight: 600; }
 nav span { font-size: 11px; opacity: .65; }
 .hero { text-align: center; padding: clamp(55px, 8vw, 104px) 24px 32px; }
-.eyebrow { color: var(--burgundy); text-transform: uppercase; letter-spacing: .18em; font-size: 11px; font-weight: 600; margin: 0 0 14px; }
+.eyebrow { color: var(--burgundy); text-transform: uppercase; letter-spacing: .18em; font-size: 11px; font-weight: 600; margin: 12px 0 14px; }
 .hero h1, .page-heading h1 { color: var(--burgundy); font: 600 clamp(38px, 5.2vw, 66px)/1.15 var(--serif); letter-spacing: -.035em; margin: 0; }
 .hero-subtitle { margin: 20px 0 0; color: var(--burgundy); font-size: 17px; font-style: italic; font-weight: 600; }
 .hero-rule { width: min(150px, 35vw); height: 1px; background: var(--sand); margin: 34px auto 0; }
