@@ -64,7 +64,10 @@ nav span { font-size: 11px; opacity: .65; }
 .profile-link span { color: var(--sand); font-size: 13px; }
 .site-footer { border-top: 1px solid var(--line); padding: 20px clamp(22px, 6vw, 92px); display: flex; justify-content: space-between; gap: 18px; color: var(--muted); font-size: 11px; letter-spacing: .04em; }
 .research-main { width: min(960px, calc(100% - 48px)); margin: 0 auto; }
-.page-heading { text-align: center; padding: 75px 0 55px; }
+.page-heading {
+  text-align: center;
+  padding: 50px 0 45px;
+}
 .page-heading h1 { font-size: clamp(42px, 5vw, 58px); }
 .page-intro { max-width: 660px; margin: 20px auto 0; color: var(--muted); font-size: 15px; }
 .publication-section { padding: 26px 0 14px; }
