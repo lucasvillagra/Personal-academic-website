@@ -32,14 +32,14 @@ nav span { font-size: 11px; opacity: .65; }
 .section-wrap { width: min(1120px, calc(100% - 48px)); margin-inline: auto; }
 .intro {
   display: grid;
-  grid-template-columns: minmax(220px, .8fr) minmax(0, 1.2fr);
+  grid-template-columns: minmax(220px, .75fr) minmax(0, 1.25fr);
   gap: clamp(30px, 5vw, 62px);
   align-items: start;
   padding: 24px 0 35px;
 }
 .portrait-frame {
   position: relative;
-  height: 340px;
+  height: 310px;
   min-height: 0;
   background: linear-gradient(145deg, #E9DED0, #D6C5B2);
   overflow: hidden;
