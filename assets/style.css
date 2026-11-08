@@ -35,7 +35,7 @@ nav span { font-size: 11px; opacity: .65; }
   grid-template-columns: minmax(220px, .8fr) minmax(0, 1.2fr);
   gap: clamp(30px, 5vw, 62px);
   align-items: start;
-  padding: 24px 0 70px;
+  padding: 24px 0 35px;
 }
 .portrait-frame {
   position: relative;
@@ -56,7 +56,7 @@ nav span { font-size: 11px; opacity: .65; }
 .button { display: inline-flex; align-items: center; gap: 11px; margin-top: 7px; padding: 12px 22px; background: var(--burgundy); color: #fff; text-decoration: none; font-size: 13px; font-weight: 600; letter-spacing: .02em; border: 1px solid var(--burgundy); transition: .2s ease; }
 .button:hover { background: var(--burgundy-dark); color: #fff; transform: translateY(-1px); }
 .button-icon { font-size: 17px; line-height: 1; }
-.contact-section { border-top: 1px solid var(--line); padding: 44px 0 62px; display: grid; grid-template-columns: 1fr 1fr; gap: 70px; }
+.contact-section { border-top: 1px solid var(--line); padding: 25px 0 62px; display: grid; grid-template-columns: 1fr 1fr; gap: 70px; }
 .contact-section h2, .publication-section h2 { margin: 0 0 20px; color: var(--burgundy); font: 600 25px/1.25 var(--serif); }
 .contact-item { display: grid; gap: 3px; padding: 0 0 14px; margin-bottom: 13px; border-bottom: 1px solid rgba(189,168,140,.55); font-size: 14px; }
 .contact-label { color: var(--muted); font-size: 11px; letter-spacing: .12em; text-transform: uppercase; font-weight: 600; }
